@@ -4,6 +4,7 @@ public class App {
 
     public static void main(String[] args) {
         Scanner key = new Scanner(System.in);
+        // teste
         Medicamento[] medicamento = new Medicamento[4];
         medicamento[0] = new Medicamento("CovidUltra", 15);
         medicamento[1] = new Medicamento("Zicox", 20);
